@@ -1,4 +1,4 @@
-# Challenge Name: **SSTI1**
+# Challenge Name: **InspectHTML**
 
 ## Category: Web Exploitation
 ## Thought Process:
